@@ -137,7 +137,7 @@ function App() {
         </div>
       </div>
       <div className="w-530 sm:w-80">
-        <h2 className="font-play-Fair text-3xl font-bold sm:text-2xl sm:mt-8">
+        <h2 className="font-play-Fair text-3xl font-bold sm:text-2xl mt-8 sm:mt-8">
           Instructions
         </h2>
         <div className="flex sm:mt-8">
