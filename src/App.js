@@ -98,10 +98,10 @@ function App() {
           <div className="flex flex-col  mt-1">
             <input type="checkbox" />
             <input type="checkbox" className="mt-9 sm:mt-10" />
-            <input type="checkbox" className="mt-2 sm:mt-5" />
-            <input type="checkbox" className=" mt-2 sm:mt-9" />
-            <input type="checkbox" className="mt-2 sm:mt-5" />
-            <input type="checkbox" className="mt-2 sm:mt-10" />
+            <input type="checkbox" className="mt-3 sm:mt-5" />
+            <input type="checkbox" className=" mt-3 sm:mt-9" />
+            <input type="checkbox" className="mt-3 sm:mt-5" />
+            <input type="checkbox" className="mt-3 sm:mt-10" />
             <input type="checkbox" className="mt-2 sm:mt-5" />
           </div>
           <div className="flex flex-col">
@@ -140,7 +140,7 @@ function App() {
         <h2 className="font-play-Fair text-3xl font-bold sm:text-2xl mt-8 sm:mt-8">
           Instructions
         </h2>
-        <div className="flex sm:mt-8">
+        <div className="flex mt-8">
           <p className="font-play-Fair bg-orange-400 text-white text-2xl px-3 text-center items-center justify-center w-9 h-9 rounded-md MY-0 mx-auto">
             1
           </p>
